@@ -151,10 +151,10 @@ footer {
 /*media queries*/
 @media (min-width: 700px) {
   :root {
-    --bg-url: url(./acets/bg-desktop.png);
+    --bg-url: url(./acets/bg-desktop.jpg);
   }
   .light {
-    --bg-url: url(./acets/bg-desktop-light.png);
+    --bg-url: url(./acets/bg-desktop-light.jpg);
   }
 }
 
